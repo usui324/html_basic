@@ -9,8 +9,11 @@ html{
 }
 
 body{
-    width: 70%;
+    width: 90%;
     margin: 0 auto;
+    min-width: 900px;
+    max-width: 1000px;
+    min-height: 500px;
 }
 
 /* typography */
